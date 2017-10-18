@@ -7,7 +7,7 @@ Each instance of mouserat takes in a callback to calculate the mock mouse positi
 
 The basic idea is that you specify how the mock position is taken care of using the old coordinates (mousePosition), new coordinates (event), and previous mock position (ratPosition).
 
-#TODO:
+# TODO:
 -Better Markdown
 -Improve README documentation
 -Include tests(???)
